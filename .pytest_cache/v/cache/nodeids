@@ -1,0 +1,5 @@
+[
+  "tests/test_pipe_func.py::TestFunc::test_basic",
+  "tests/test_pipe_func.py::TestFunc::test_empty",
+  "tests/test_pipe_func.py::TestFunc::test_type_error"
+]
